@@ -9,10 +9,17 @@
 }
 body {
     background: #e5e5e5;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 header {
     background: #1B83E2;
     height: 66px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 main {
     padding: 24px;
@@ -49,14 +56,14 @@ input {
 }
 h1{
     font-size: 24px;
-    align-items: center;
     color: #F4F4F4;
-    text-align: center;
-    padding-top: 22px;
 }
 section {
     border: 1px solid #1B83E2;
     border-radius: 4px;
+}
+img {
+    width: 40px;
 }
 button {
     width: 100%;
@@ -81,11 +88,12 @@ button:active {
 .container {
     width: 375px;
     background: #f4f4f4;
-    margin: 0 auto;
-    margin-top: 100px;
 }
 .div-section {
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     padding: 10px;
 }
 .name-money {
@@ -97,8 +105,4 @@ button:active {
     font-weight: 700;
     font-size: 20px;
     color: #1B83E2;
-}
-#arrow-img {
-    margin: 15px auto;
-    display: block;
 }
