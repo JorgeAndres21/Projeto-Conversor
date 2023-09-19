@@ -1,6 +1,6 @@
 <h1>Convertor de moeda do <a href="https://rodolfomori.com.br/devclub/">DevClube</a></h1>
 <br>
-<img src="https://github.com/JorgeAndres21/Projeto-Conversor/blob/master/assets/Captura%20de%20tela_20230215_201448.png" />
+<img style="height:500px;" src="https://github.com/JorgeAndres21/Projeto-Conversor/blob/master/assets/Captura%20de%20tela_20230215_201448.png" />
 <h2>Descrição:</h2>
 
 <p>Conversor online de reais para dólares americanos e Bitcoin. Esta ferramenta prática e útil permite calcular de forma instantânea e precisa o valor equivalente em dólares americanos e Bitcoin de uma determinada quantia em reais brasileiros. </p>
